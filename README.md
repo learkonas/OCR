@@ -1,6 +1,6 @@
 ## Overview
 
-This is my code, cloned from Nielsen's original, to follow and experiment with his ML tutorial.
+This is my code, cloned from Nielsen's original, to follow and experiment with his ML tutorial
 
 ### neuralnetworksanddeeplearning.com integrated scripts for Python 3.5.2 and Theano with CUDA support
 
