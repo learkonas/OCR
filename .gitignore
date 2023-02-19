@@ -1,1 +1,6 @@
 __pycache__
+mnist_average_darkness.py
+mnist_svm.py
+mnist.pkl.gz
+MyNetwork
+test.py
