@@ -1,10 +1,10 @@
 ## Overview
 
-This is my code, cloned from Nielsen's original, to follow and experiment with his ML tutorial
+This is my code to follow and experiment with Nielsen's image-based optical character recognition tutorial
 
 ### neuralnetworksanddeeplearning.com integrated scripts for Python 3.5.2 and Theano with CUDA support
 
-These scrips are updated ones from the **neuralnetworksanddeeplearning.com** gitHub repository in order to work with Python 3.5.2
+These scrips are updated ones from the **neuralnetworksanddeeplearning.com** gh repo in order to work with Python 3.5.2
 
 The testing file (**test.py**) contains all three networks (network.py, network2.py, network3.py) from the book and it is the starting point to run (i.e. *train and evaluate*) them.
 
